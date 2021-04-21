@@ -1,0 +1,44 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white ;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  th {
+    
+    background-color: #3b5999;
+    color: white;
+    
+  }
+  
+  tr:nth-child(even) {
+    
+    background-color:#edf0f5;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 4em;
+  }
+ 
+  #myInput {
+    width: 60%;
+    height: 3em;
+    background-color:#edf0f5;
+  }
+
+  body {
+    display: block;
+   
+    
+    background: #a3c99a;
+    margin-top: 20px;
+    
+}
